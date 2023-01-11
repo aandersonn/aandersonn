@@ -16,7 +16,7 @@
 
 ##
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MthAlvarez&theme=gotham&hide_border=true&area=true)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=212431&height=120&section=footer"/>
 
 
       
